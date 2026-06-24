@@ -65,7 +65,8 @@ Plataforma para registrar, versionar y auditar el ciclo completo de proyectos de
 <td width="50%" valign="top">
 
 ### SuaGO Portfolio
-Portfolio profesional con **dual-audience** (cliente vs reclutador) sobre el design system propio *Liquid Glass*. Conversión optimizada para captar leads B2B.
+Portfolio profesional con **dual-audience** (cliente vs reclutador) sobre el design system propio *Liquid Glass*. Conversión optimizada para captar leads B2B. 
+https://portafolio-suago.vercel.app/
 
 `Next.js 14` `TypeScript` `Tailwind` `shadcn/ui`
 
@@ -83,7 +84,8 @@ Sistema **RAG** sobre normativa regulatoria del sector energético colombiano. T
 <td width="50%" valign="top">
 
 ### SILP
-Plataforma de **gestión de contactos políticos** con visualización de redes de relaciones. Identifica influencias, intermediarios y caminos de contacto.
+Plataforma de **gestión de contactos políticos** con visualización de redes de relaciones. Identifica influencias, intermediarios y caminos de contacto. 
+https://silp-taupe.vercel.app/login
 
 `FastAPI` `React` `ReactFlow` `D3.js`
 
@@ -91,7 +93,8 @@ Plataforma de **gestión de contactos políticos** con visualización de redes d
 <td width="50%" valign="top">
 
 ### Dashboard Seguridad en Colombia
-Pipeline de **visualizacion de +7 millones de datos** organizado en 40 indicadores de seguridad por departamentos. Datos descargados de la pagina oficial del ministerio de Defensa en Colombia.
+Pipeline de **visualizacion de +7 millones de datos** organizado en 40 indicadores de seguridad por departamentos. Datos descargados de la pagina oficial del ministerio de Defensa en Colombia. 
+http://18.209.141.182/
 
 `React` `SQL` `AWS` `FastAPI`
 
