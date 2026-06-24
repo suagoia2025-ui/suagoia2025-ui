@@ -14,10 +14,10 @@
 
 ## Lo que hago por tu empresa
 
-**Ingeniero Mecatrónico senior** con doble especialización **diseño y ejecución de proyectos de infraestructura** + **arquitectura de software, IA aplicada y automatización**. Combino la disciplina de la ingeniería tradicional con las herramientas modernas para entregar soluciones que reducen costos operativos, eliminan trabajo manual y dan visibilidad total sobre los procesos críticos del negocio.
+**Ingeniero Mecatrónico senior** con doble especialización **diseño y ejecución de proyectos de infraestructura** + **arquitectura de software, redes de datos seguras y automatización**. Combino la disciplina de la ingeniería tradicional con las herramientas modernas para entregar soluciones que reducen costos operativos, eliminan trabajo manual y dan visibilidad total sobre los procesos críticos del negocio.
 
-> **Para clientes** transformo operaciones manuales en plataformas medibles, auditables y escalables.
-> **Para reclutadores** diseño desde el contrato (OpenAPI/SDD) hasta el despliegue (Railway, Vercel, AWS), con observabilidad y seguridad por defecto.
+> **Para clientes** transformo operaciones manuales en plataformas medibles, auditables, seguras y escalables.
+> **Para reclutadores** diseño desde el contrato (OpenAPI/SDD) hasta el despliegue (Railway, Vercel, AWS), con observabilidad y seguridad.
 
 ---
 
@@ -25,11 +25,11 @@
 
 |  | Servicio | Resultado para el cliente |
 |---|---|---|
-| 🏗️ | **Plataformas SaaS a medida** | Reemplaza Excel y procesos manuales por software con login, roles y reportes |
+| 🏗️ | **Dashboard para analisis de datos** | Reemplaza Excel y procesos manuales por software con login, roles y reportes |
 | 🤖 | **Agentes de IA y RAG sobre tus documentos** | Tu equipo consulta normativa, contratos o manuales en segundos, no en horas |
-| ⚙️ | **Automatización de procesos (n8n + Odoo)** | Integra tus herramientas y elimina re-digitación entre sistemas |
+| ⚙️ | **Automatización de procesos (n8n + landingpages** | Integra tus herramientas y elimina re-digitación entre sistemas |
 | 📊 | **Trazabilidad y observabilidad de proyectos** | Dashboards en tiempo real con métricas RED, tracing y alertas |
-| 🔒 | **Auditoría y endurecimiento de seguridad** | RLS, CSP, HSTS y separación multi-tenant sin fugas de datos |
+| 🔒 | **Redes seguras** | Firewall, Blocklist y separación multi-tenant sin fugas de datos |
 
 ---
 
@@ -50,7 +50,7 @@ Plataforma para registrar, versionar y auditar el ciclo completo de proyectos de
 - ✅ **Dashboards RED** — avance físico vs cronograma vs presupuesto en tiempo real
 - ✅ **Multi-tenant con RLS** — clientes, contratistas e interventoría ven solo lo suyo
 
-**Stack** `FastAPI` `PostgreSQL 16 + RLS` `Next.js 14` `LangGraph` `Docker` `Railway`
+**Stack** `FastAPI` `PostgreSQL 16 + RLS` `Next.js 14` `LangGraph` `Docker` `Railway` `AWS`
 
 </td>
 </tr>
@@ -90,10 +90,10 @@ Plataforma de **gestión de contactos políticos** con visualización de redes d
 </td>
 <td width="50%" valign="top">
 
-### Peluche
-Pipeline de **voz conversacional offline** sobre Raspberry Pi 4. Privacidad total sin enviar audio a la nube — ideal para entornos regulados.
+### Dashboard Seguridad en Colombia
+Pipeline de **visualizacion de +7 millones de datos** organizado en 40 indicadores de seguridad por departamentos. Datos descargados de la pagina oficial del ministerio de Defensa en Colombia.
 
-`Whisper` `Phi-3` `Piper TTS` `Raspberry Pi`
+`React` `SQL` `AWS` `FastAPI`
 
 </td>
 </tr>
