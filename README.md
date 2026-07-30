@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=B87333&center=true&vCenter=true&width=720&lines=Hola%2C+soy+Ricardo+Su%C3%A1rez+%F0%9F%91%8B;Ingenier%C3%ADa+%2B+Software+%2B+IA+para+tu+negocio;Convierto+procesos+manuales+en+plataformas+que+escalan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=B87333&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Ricardo+Su%C3%A1rez+%F0%9F%91%8B;Ingenier%C3%ADa+%2B+Software+%2B+IA+para+tu+negocio;Convierto+procesos+manuales+en+plataformas+que+escalan" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/ricardosuago/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
